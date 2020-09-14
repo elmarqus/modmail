@@ -1,65 +1,65 @@
 [
     {
         "embed": {
-            "description": "This is a youtube channel that provides high quality reddit content. Videos are uploaded regularly so you are never out of funny, interesting or even creepy content!",
+            "description": "Mi canal de Youtube!",
             "color": 15114050,
             "footer": {
-                "icon_url": "https://i.imgur.com/fvNKUks.png",
-                "text": "I am a robot, son of Daniel (UK)"
+                "icon_url": "https://i.imgur.com/SWMybjc.png",
+                "text": "Soy EL_Nuggetin!"
             },
             "thumbnail": {
-                "url": "https://i.imgur.com/WyzaPKY.png"
+                "url": "https://i.imgur.com/SWMybjc.png"
             },
             "author": {
-                "name": "Sir Reddit",
-                "url": "https://www.youtube.com/channel/UCgSmBJD9imASmJRleycTCwQ?sub_confirmation=1",
-                "icon_url": "https://i.imgur.com/WyzaPKY.png"
+                "name": "EL_Nuggetin",
+                "url": "https://www.youtube.com/el_nuggetin?sub_confirmation=1",
+                "icon_url": "https://i.imgur.com/SWMybjc.png"
             },
             "fields": [
                 {
-                    "name": "Subscribe!",
-                    "value": "[**Click Here**](https://www.youtube.com/channel/UCgSmBJD9imASmJRleycTCwQ?sub_confirmation=1)"
+                    "name": "¡Youtube!",
+                    "value": "[Pulsa aquí.](https://www.youtube.com/el_nuggetin?sub_confirmation=1)"
                 },
                 {
-                    "name": "Discord Server!",
-                    "value": "[**Click Here**](https://discord.gg/V8ErqHb)"
+                    "name": "Twitch",
+                    "value": "[Click Here](https://twitch.tv/el_nuggetin)"
                 }
             ]
         }
     },
     {
         "embed": {
-            "title": "Hey there!",
-            "description": "Nice to see you here! You can support us by subscribing on youtube -> [Youtube](https://www.youtube.com/user/RoomieOfficial) <- and also join our  [Discord](https://discord.gg/zaeVCaV)!",
-            "url": "https://discord.gg/zaeVCaV",
+            "title": "Hola!",
+            "description": "Me llamo Marc o como se me conoce en discord **marqus.js** te dejo aquí mis redes sociales por si me quieres seguir, espero que te lo pases bien en **GAMESP**",
+            "url": "https://discord.gg/mAz4ngS",
             "color": 13003681,
             "footer": {
-                "icon_url": "https://imgur.com/Mrc9pLd.gif",
-                "text": "everyone is a clown"
+                "icon_url": "https://cdn.discordapp.com/attachments/530075306321772544/755141725349085325/a0501e0c5659dcfde397299e4234e75a.gif",
+                "text": "Disfruta del server"
             },
             "thumbnail": {
-                "url": "https://imgur.com/Mrc9pLd.gif"
+                "url": "https://cdn.discordapp.com/attachments/530075306321772544/755141725349085325/a0501e0c5659dcfde397299e4234e75a.gif"
             },
             "image": {
-                "url": "https://imgur.com/ZUFiL6b.gif"
+                "url": "https://i.gifer.com/MXYH.gif"
             },
             "author": {
-                "name": "Roomieofficial",
-                "url": "https://discord.gg/zaeVCaV",
-                "icon_url": "https://imgur.com/6hBkt7Z.png"
+                "name": "Elmarquss",
+                "url": "https://www.twitch.tv/elmarquss",
+                "icon_url": "https://cdn.shopify.com/s/files/1/0365/1000/7429/products/mascarilla2_1024x1024@2x.png?v=1591368891"
             },
             "fields": [
                 {
-                    "name": "What is all this about 🤔",
-                    "value": "We are mainly focused on everything that has anything to do with music or singing! "
+                    "name": "Instagram 🤔",
+                    "value": "Si quieres saber cuando haré directo pasate por mi  [Instagram](https://www.instagram.com/elmarqus) y sigueme para estar al tanto."
                 },
                 {
-                    "name": "Youtube 🙄",
-                    "value": "U will get great content if you follow our [Youtube](https://www.youtube.com/user/RoomieOfficial) with weekly uploads."
+                    "name": "Twitch 🙄",
+                    "value": "Te gusta el gta roleplay? Valorant? CS:GO? entonces pasate por mi canal de [Twtich](https://www.twitch.tv/elmarquss) PD: soy calvo."
                 },
                 {
-                    "name": "Discord 😁",
-                    "value": "Make sure to join our [Discord](https://discord.gg/zaeVCaV) We have weekly events, 24/7 chats and more!"
+                    "name": "Lunaticos RP 😁",
+                    "value": "Si te gusta el roleplay pasate por este servidor  [LunaticosRP](https://discord.gg/mAz4ngS) aunque se va a hacer la cerración"
                 }
             ]
         }
